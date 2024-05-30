@@ -1,4 +1,4 @@
 # Rmss-demo
 this is my first repository
 <br>
-Author Ramandeep Singh
+Author Ramandeep (Apna College)
